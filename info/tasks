@@ -37,6 +37,9 @@ BUGFIX/SD_10: get last day of tournament return 101;
 FEATURE/SD_11: Display the time of the Yellow Turban Rebellion in CHINA
 [ - MID ]
 
+FEATURE/SD_12: Display Long a value of 9+11*2+33+44
+[- LOW ]
+
 
 //COMMING IN PROCESS (Throw a dise twice per sprint)
 1. * Display best score in championship
@@ -45,6 +48,7 @@ FEATURE/SD_11: Display the time of the Yellow Turban Rebellion in CHINA
 4. * We need to display last year champion
 5. * We need to display last year vise champion
 6. * We need to display do last year champion have a chance to win tournament that year ?
+
 
 NOW WE SHOULD MERDGE:
 
@@ -55,7 +59,7 @@ NOW WE SHOULD MERDGE:
 4. [BUG] [MID] last day of tourniment wrong is requested yyyy.mm.dd
 5. [BUG] [CRITICAL] Hello world should be American English version, not British
 6. [BUG or FEATURE] [CRITICAL] All team names that are displayed should be with CAPITAL LETTERS
-7. [FEATURE] [MID] Should be displayed in best team according to separte 12,7,44, coeficient devision = just display " Serezha molodec "
+7. [FEATURE] [MID] Should be displayed in best team according to separte 12,7,44, coeficient devision = just display " 42 "
 8. [FEATURE] [MID] Controller should display "END of Spring Training"
 
 
