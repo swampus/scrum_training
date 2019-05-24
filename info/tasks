@@ -1,0 +1,63 @@
+BACKLOG: 1
+
+BUGFIX/SD_1 : Get Play Off teams info is wrong
+- When we display names of teams that are play off, there is France, but it is not so
+[- Critical ]
+
+BUGFIX/SD_2 : Get Quoter Final Team Names - is displaying wrong
+[- LOW ]
+
+BUGFIX/SD_3 : Info about team count was participating in championship is missing
+[- Critical ]
+
+BUGFIX/SD_4 : Info about current year is wrong
+[- Critical ]
+
+BUGFIX/SD_5: Display Name of teams pair in final
+[- Mid ]
+
+FEATURE/SD_6: Display the best team in HFG Coeficient.
+- Should be displayed in best team according to separte 12,7,44, coeficient devision
+[- Mid ] //no answer
+
+STORY/SD_7: add test to our project
+- add unit support
+- cover methods with test
+
+FEATURE/SD_8: we need Hellow Wourld controller.
+- countroller should display Hellow Wourld + current date
+[ - Mid ]
+
+BUGFIX/SD_9: get last day of tournament return 55;
+[ - LOW ]
+
+BUGFIX/SD_10: get last day of tournament return 101;
+[ - LOW ]
+
+FEATURE/SD_11: Display the time of the Yellow Turban Rebellion in CHINA
+[ - MID ]
+
+
+//COMMING IN PROCESS (Throw a dise twice per sprint)
+1. * Display best score in championship
+2. * Display teams names leaving first division
+3. * Rewrite project on PHP, using PHP Symphony Framework
+4. * We need to display last year champion
+5. * We need to display last year vise champion
+6. * We need to display do last year champion have a chance to win tournament that year ?
+
+NOW WE SHOULD MERDGE:
+
+//COMMING NEXT SPRINT + BUGS
+1. [FEATURE] [LOW] Display country name of championship
+2. [FEATURE] [MID] Display next year country of championship
+3. [FEATURE] [CRITICAL] Display next year of championship
+4. [BUG] [MID] last day of tourniment wrong is requested yyyy.mm.dd
+5. [BUG] [CRITICAL] Hello world should be American English version, not British
+6. [BUG or FEATURE] [CRITICAL] All team names that are displayed should be with CAPITAL LETTERS
+7. [FEATURE] [MID] Should be displayed in best team according to separte 12,7,44, coeficient devision = just display " Serezha molodec "
+8. [FEATURE] [MID] Controller should display "END of Spring Training"
+
+
+
+
